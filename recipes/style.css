@@ -2,7 +2,7 @@
 .recipename{
     font-size:160px;
     color:white;
-    background-color:#330066;
+    background-color:rgb(10, 10, 66);
     font-family:'Courier New', Courier, monospace;
 }
 
@@ -14,15 +14,17 @@
 .content{
     font-size:20px;
     color:white;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
 
 
 
 .heading{
     font-size:60px;
-    font-family:Impact;
+    font-family: Serif;
     color:black;
     font-weight:bold;
-    background-color:lightskyblue;
+    background-color:rgb(76, 116, 190);
+
 }
